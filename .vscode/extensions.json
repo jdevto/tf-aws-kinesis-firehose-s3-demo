@@ -1,0 +1,27 @@
+{
+  "recommendations": [
+    "hashicorp.terraform",
+    "amazonwebservices.aws-toolkit-vscode",
+    "redhat.vscode-yaml",
+    "davidanson.vscode-markdownlint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "foxundermoon.shell-format",
+    "Gruntfuggly.todo-tree",
+    "mhutchie.git-graph",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "vscode-icons-team.vscode-icons",
+    "ms-vscode.vscode-json",
+    "ms-vscode.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "4ops.terraform",
+    "tamasfe.even-better-toml",
+    "ms-python.python",
+    "ms-python.pylint",
+    "ms-python.black-formatter",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "ms-vscode.vscode-docker"
+  ]
+}
