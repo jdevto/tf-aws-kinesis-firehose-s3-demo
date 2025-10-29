@@ -1,0 +1,10 @@
+{
+  "name": "lambda-producer",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-kinesis": "^3.609.0"
+  }
+}
